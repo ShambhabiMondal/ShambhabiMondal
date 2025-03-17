@@ -1,4 +1,4 @@
-### Hey y'all, bienvenidos to my GitHub profile! I'm Shambhabi, currently in my senior year at college, majoring in Information Technology. <br>I'm highly interested in Natural Language Processing, Applied Mathematics and Cognitive Linguistics (Multilingualism and Language Acquisition), and am working on projects pertaining to these.
+### Hey y'all, bienvenidos to my GitHub profile! I'm Shambhabi, a recent graduate in Information Technology. <br>I'm highly interested in Natural Language Processing, Applied Mathematics and Cognitive Linguistics (Multilingualism and Language Acquisition), and work on projects pertaining to these.
 <!--
 **ShambhabiMondal/ShambhabiMondal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
